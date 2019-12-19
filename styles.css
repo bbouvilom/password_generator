@@ -1,0 +1,45 @@
+.content{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+    padding: 30px;
+    width: 100%;
+    
+}
+
+.container{
+    border: 1px;
+    background: white;
+}
+
+#display{
+    width: 100%;
+    border: dashed;
+    border-color: lightgrey;
+    height: 100px;
+}
+
+#slider{
+    width: 100%;
+}
+
+#length{
+    display: inline-block;
+}
+h4 { text-align: left;
+    font-family: sans-serif;
+}
+
+h1 { text-align: center;
+    font-family: sans-serif;
+}
+
+body { background: lightgray;}
+
+#generate { background-color: red;
+color: white;}
+
+#copy { background-color: blue;
+color: white;}
+
+
